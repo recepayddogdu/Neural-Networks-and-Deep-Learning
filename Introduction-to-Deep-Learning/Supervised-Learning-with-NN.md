@@ -10,12 +10,11 @@ In a classification problem, we are instead trying to predict results in a discr
 
 Here are some examples of supervised learning;
 
-![supervised_learning](https://i.hizliresim.com/8cMHHf.png)
+<img src="https://i.hizliresim.com/8cMHHf.png" width="80%">
 
 There are different types of neural network, for example Convolution Neural Network (CNN) used often for image application and Recurrent Neural Network (RNN) used for one-dimensional sequence data such as translating English to Chinses or a temporal component such as text transcript. As for the autonomous driving, it is a hybrid neural network architecture.
 
-
-![nn_examples](https://i.hizliresim.com/BeC1nj.png)
+<img src="https://i.hizliresim.com/BeC1nj.png" width=80%>
 
 ## Structured vs Unstructured Data
 Structured data refers to things that has a defined meaning such as price, age whereas unstructured data refers to thing like pixel, raw audio, text.
