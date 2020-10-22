@@ -10,7 +10,7 @@ In a classification problem, we are instead trying to predict results in a discr
 
 Here are some examples of supervised learning;
 
-<img src="https://i.hizliresim.com/8cMHHf.png" width="80%">
+<img src="https://i.hizliresim.com/8cMHHf.png" width="20%">
 
 There are different types of neural network, for example Convolution Neural Network (CNN) used often for image application and Recurrent Neural Network (RNN) used for one-dimensional sequence data such as translating English to Chinses or a temporal component such as text transcript. As for the autonomous driving, it is a hybrid neural network architecture.
 
