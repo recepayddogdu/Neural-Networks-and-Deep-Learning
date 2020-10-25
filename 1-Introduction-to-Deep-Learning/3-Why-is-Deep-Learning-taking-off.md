@@ -5,8 +5,9 @@ Deep learning is taking off due to a large amount of data available through the 
 <img src="https://i.hizliresim.com/CvAO1B.png">
 
 Two things have to be considered to get to the high level of performance: 
->1- Being able to train a big enough neural network 
->2- Huge amount of labeled data
+
+ 1. Being able to train a big enough neural network 
+ 2. Huge amount of labeled data
 
 The process of training a neural network is iterative.
 
